@@ -1,0 +1,55 @@
+.about-headquartes__our{
+  font-family: 'Fraunces';
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+color: #83888F;
+margin-bottom: 72px;
+}
+.about-headquartes{
+  margin-bottom: 168px;
+}
+.about-headquartes__block{
+  width: 1045px;
+  height: 366px;
+  margin: 0 auto;
+}
+.about-headquartes_countires{
+ font-family: 'Fraunces';
+font-weight: 900;
+font-size: 32px;
+line-height: 36px;
+color: #333D4B;
+padding-top: 46px;
+width: 272px;
+}
+.about-countries{
+  display: flex;
+}
+.about-European{
+  margin-right: 95px;
+}
+.about-headquartes__text{
+  font-family: 'Barlow';
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #333D4B;
+
+}
+.about-European::before{
+  content: "";
+  width: 40px;
+  height: 49px;
+  display: inline-block;
+  background-image: url(../../img/aboutcountires1.png);
+  background-repeat: no-repeat;
+}
+.canada{
+  content: "";
+  width: 40px;
+  height: 49px;
+  display: inline-block;
+  background-image: url(../../img/aboutcountires2.png);
+  background-repeat: no-repeat;
+}

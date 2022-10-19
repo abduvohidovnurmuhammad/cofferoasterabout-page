@@ -1,0 +1,48 @@
+.hero-our{
+  margin-bottom: 200px;
+ }
+.hero-our__blok{
+  width: 1111px;
+  margin: 0 auto;
+  height: 524px;
+  background-image: url(../img/bg_collection.svg);
+  background-repeat: no-repeat;
+}
+.hero-our_list{
+  padding-top: 126px;
+  display: flex;
+  justify-content: space-between;
+}
+.hero-our__imgblock{
+  width: 255px;
+  margin-bottom: 70px;
+}
+.hero-our__title{
+  font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 32px;
+color: #333D4B;
+text-align: center;
+margin-bottom: 22px;
+}
+.item__superior{
+  width: 255px;
+}
+.hero-our__text{
+  font-family: 'Barlow';
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #333D4B;
+}
+.hero-our__item{
+  transition-timing-function: ease-in-out;
+  transition-duration: 1s;
+  transition-property: all;
+}
+.hero-our__item:hover{
+  background-color: #00ffd0;
+  cursor: pointer;}

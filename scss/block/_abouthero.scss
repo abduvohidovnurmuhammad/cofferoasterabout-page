@@ -1,0 +1,26 @@
+.about-main__container{
+  background-image: url(../../img/abouthero.png);
+  background-repeat: no-repeat;
+  height: 450px;
+  margin-bottom: 168px;
+  padding-top: 200px ;
+}
+.about-main__block{
+  max-width: 445px;
+}
+.about-main__title{
+  font-family: 'Fraunces';
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+color: #FEFCF7;
+margin-bottom: 24px;
+}
+.about-main__text{
+  font-family: 'Barlow';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FEFCF7;
+  opacity: 0.6;
+}
